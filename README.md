@@ -1,4 +1,4 @@
-# Project 3 - Unit 5 - *Instagram*
+# Project 3 - Unit 5 & Unit 6- *Instagram*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
